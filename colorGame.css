@@ -10,7 +10,7 @@ body{
     padding-bottom: 30%;
     float: left;
     margin: 1.66%;
-    border-radius: 15%;
+    border-radius: 40%;
     transition: background 0.6s;
 }
 
@@ -46,7 +46,7 @@ body{
   }
 
  #colorDisplay{
-     font-size: 200%;
+     font-size: 150%;
  }
 
  button{
@@ -64,4 +64,9 @@ body{
  button:hover {
      color: white;
      background: steelblue;
+ }
+
+ #link{ 
+    clear: both;
+    text-align: center;
  }
